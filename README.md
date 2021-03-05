@@ -1,5 +1,6 @@
 # Awesome-DataFusion
 ## - 3D-3D Registration
+### Fine Registration
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 -A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
@@ -11,6 +12,9 @@
 -Method for registration of 3-D shapes. ICOP 1992.  
 -Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
 -Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
+### Global Registration
+
+### Lecture
 -[[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
 -[[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
 -[[EM and GMM](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)]  
