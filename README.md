@@ -25,3 +25,4 @@
 
 ## - 2D-2D Registration
 -Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
+Choy, Christopher B., JunYoung Gwak, Silvio Savarese, and Manmohan Chandraker. "Universal correspondence network." arXiv preprint arXiv:1606.03558 (2016).
