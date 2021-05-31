@@ -24,5 +24,6 @@
 -Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
 ## - 2D-2D Registration
+Co-Attention for Conditioned Image Matching
 -Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
 Choy, Christopher B., JunYoung Gwak, Silvio Savarese, and Manmohan Chandraker. "Universal correspondence network." arXiv preprint arXiv:1606.03558 (2016).
