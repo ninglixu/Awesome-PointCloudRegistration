@@ -19,7 +19,8 @@
 -[[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
 -[[EM and GMM](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)]  
 -[[EM and GMM](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)]  
--[[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]
+-[[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
+-[[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
 ## - 2D-3D Registration
 -Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
