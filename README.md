@@ -4,6 +4,7 @@
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 -A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
+-A-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 -Sparse iterative closest point. CGF 2013  
 -Point set registration: Coherent point drift. TPAMI 2010  
 -The normal distributions transform: A new approach to laser scan matching. IROS 2003  
