@@ -1,5 +1,14 @@
 # Awesome-DataFusion
 ## - 3D-3D Registration
+### Learning Based
+-PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021
+-RPM-Net: Robust Point Matching using Learned Features. CVPR2020
+-Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR2021
+-SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR2021
+-PointDSC: Robust Point Cloud Registration Using Deep Spatial Consistency. CVPR2021
+-UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR2021
+-End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020
+
 ### Fine Registration
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
