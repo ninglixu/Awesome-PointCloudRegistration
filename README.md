@@ -11,7 +11,7 @@
 
 ### Fine Registration
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
--Analysis of robust functions for registration algorithms.ICRA 2019.
+-Analysis of robust functions for registration algorithms.ICRA 2019.  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 -A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
 -AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
