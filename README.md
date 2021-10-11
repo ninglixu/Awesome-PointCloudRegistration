@@ -9,8 +9,7 @@
 -UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR2021  
 -End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
-### Fine Registration
--Scale-Adaptive ICP. Graphic Models. 2021.  
+### Fine Registration 
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Analysis of robust functions for registration algorithms.ICRA 2019.  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
@@ -18,6 +17,7 @@
 -AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 -Sparse iterative closest point. CGF 2013  
 -Point set registration: Coherent point drift. TPAMI 2010  
+-A scale stretch method based on ICP for 3D data registration. 2009
 -The normal distributions transform: A new approach to laser scan matching. IROS 2003  
 -Efficient variants of the ICP algorithm. IC3DIM 2001  
 -Object modelling by registration of multiple range images. IVC 1992  
