@@ -10,6 +10,7 @@
 -End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Fine Registration
+-Scale-Adaptive ICP. Graphic Models. 2021.  
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Analysis of robust functions for registration algorithms.ICRA 2019.  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
