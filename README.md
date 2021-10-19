@@ -10,10 +10,13 @@
 -End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Fine Registration 
+- Scale-Adaptive ICP. PR. 2021.
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Analysis of robust functions for registration algorithms.ICRA 2019.  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 -A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
+-Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
+-Correntropy based scale ICP algorithm for robust point set registration. 2019  
 -AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 -Sparse iterative closest point. CGF 2013  
 -Point set registration: Coherent point drift. TPAMI 2010  
@@ -26,6 +29,18 @@
 -Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 ### Global Registration
 
+
+### Survey  
+- [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
+- [Descriptor application scenario] A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. 2016 IJCV.  
+- [Detector] Performance Evaluation of 3D Keypoint Detectors. 2012 IJCV  
+- [Robust Estimation] A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019  
+- [RANSAC-type] A Comparative Analysis of RANSAC Techniques Leading to Adaptive Real-Time Random Sample Consensus. ECCV 2008.  
+- [ICP on slam] Comparing ICP variants on real-world data sets. 2013 Autonoumous Robots.  
+- [Rigid Non-rigid] Registration of 3D point clouds and meshes: A survey from rigid to nonrigid. 2012 TVCG
+- [LiDAR] Registration of Laser Scanning Point Clouds: A Review. 2018 Sensors. 
+- 
+- 
 ### Lecture
 -[[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
 -[[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
