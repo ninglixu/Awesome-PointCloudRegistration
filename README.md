@@ -10,9 +10,11 @@
 -End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Fine Registration 
--Scale-Adaptive ICP. PR. 2021.
+-Scale-Adaptive ICP. PR. 2021.  
+-LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
--Analysis of robust functions for registration algorithms.ICRA 2019.  
+-Analysis of robust functions for registration algorithms.ICRA 2019.   
+-FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
 -Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 -A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
 -Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
@@ -39,6 +41,7 @@
 - [ICP on slam] Comparing ICP variants on real-world data sets. 2013 Autonoumous Robots.  
 - [Rigid Non-rigid] Registration of 3D point clouds and meshes: A survey from rigid to nonrigid. 2012 TVCG
 - [LiDAR] Registration of Laser Scanning Point Clouds: A Review. 2018 Sensors. 
+- [Correspondence]Recent advances in shape correspondence. 2019 Visual Computer  
 - 
 - 
 ### Lecture
