@@ -22,7 +22,7 @@
 -AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 -Sparse iterative closest point. CGF 2013  
 -Point set registration: Coherent point drift. TPAMI 2010  
--A scale stretch method based on ICP for 3D data registration. 2009
+-A scale stretch method based on ICP for 3D data registration. 2009  
 -The normal distributions transform: A new approach to laser scan matching. IROS 2003  
 -Efficient variants of the ICP algorithm. IC3DIM 2001  
 -Object modelling by registration of multiple range images. IVC 1992  
