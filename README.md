@@ -11,7 +11,7 @@
 
 ### Fine Registration 
 -Scale-Adaptive ICP. PR. 2021.  
--LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021
+-LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021  
 -Fast and Robust Iterative Closest Point. TPAMI 2021  
 -Analysis of robust functions for registration algorithms.ICRA 2019.   
 -FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
