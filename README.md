@@ -43,6 +43,7 @@
 - [LiDAR] Registration of Laser Scanning Point Clouds: A Review. 2018 Sensors. 
 - [Correspondence]Recent advances in shape correspondence. 2019 Visual Computer  
 - [Corase Registration]A review of recent range image registration methodswith accuracy evaluation. IVC 2006.
+- Recent developments and trends in point set registration methods。 2017
 - 
 - 
 ### Lecture
