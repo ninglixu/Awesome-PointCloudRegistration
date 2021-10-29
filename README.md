@@ -27,14 +27,15 @@
 - Efficient variants of the ICP algorithm. IC3DIM 2001  
 - Object modelling by registration of multiple range images. IVC 1992  
 - Method for registration of 3-D shapes. ICOP 1992.  
-- Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
-- Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
+
 
 ### Coarse Registration
 - [Scale 4PCS]Fully Automatic Registration of Image Sets on Approximate Geometry. IJCV 2013  
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
-- [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017
+- [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017  
+- Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
+- Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 
 ### Survey  
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
