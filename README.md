@@ -10,25 +10,25 @@
 - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Fine Registration 
--Scale-Adaptive ICP. PR. 2021.  
--LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021  
--Fast and Robust Iterative Closest Point. TPAMI 2021  
--Analysis of robust functions for registration algorithms.ICRA 2019.   
--FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
--Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
--A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
--Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
--Correntropy based scale ICP algorithm for robust point set registration. 2019  
--AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
--Sparse iterative closest point. CGF 2013  
--Point set registration: Coherent point drift. TPAMI 2010  
--A scale stretch method based on ICP for 3D data registration. 2009  
--The normal distributions transform: A new approach to laser scan matching. IROS 2003  
--Efficient variants of the ICP algorithm. IC3DIM 2001  
--Object modelling by registration of multiple range images. IVC 1992  
--Method for registration of 3-D shapes. ICOP 1992.  
--Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
--Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
+- Scale-Adaptive ICP. PR. 2021.  
+- LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021  
+- Fast and Robust Iterative Closest Point. TPAMI 2021  
+- Analysis of robust functions for registration algorithms.ICRA 2019.   
+- FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
+- Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
+- A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
+- Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
+- Correntropy based scale ICP algorithm for robust point set registration. 2019  
+- AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
+- Sparse iterative closest point. CGF 2013  
+- Point set registration: Coherent point drift. TPAMI 2010  
+- A scale stretch method based on ICP for 3D data registration. 2009  
+- The normal distributions transform: A new approach to laser scan matching. IROS 2003  
+- Efficient variants of the ICP algorithm. IC3DIM 2001  
+- Object modelling by registration of multiple range images. IVC 1992  
+- Method for registration of 3-D shapes. ICOP 1992.  
+- Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
+- Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 
 ### Coarse Registration
 - [Scale 4PCS]Fully Automatic Registration of Image Sets on Approximate Geometry. IJCV 2013  
