@@ -29,7 +29,8 @@
 -Method for registration of 3-D shapes. ICOP 1992.  
 -Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
 -Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
-### Global Registration
+
+### Coarse Registration
 - [Scale 4PCS]Fully Automatic Registration of Image Sets on Approximate Geometry. IJCV 2013  
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
