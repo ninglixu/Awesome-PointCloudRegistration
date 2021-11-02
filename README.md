@@ -40,7 +40,6 @@
 ## Robust Estimation  
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA 2020.  
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
-- A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates. RSS'2019  
 - GORE: Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. TPAMI'2018  
 - FGR: Fast Global Registration. ECCV'2016  
 
