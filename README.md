@@ -38,6 +38,7 @@
 - Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 
 ## Robust Estimation  
+- A Practical O (N2) Outlier Removal Method for Point Cloud Registration. TPAMI 2021.
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA 2020.  
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
 - GORE: Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. TPAMI'2018  
