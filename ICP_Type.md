@@ -1,3 +1,4 @@
+can we fix the optimization parameter during the ICP process. First Rotation, then translation
 # Symmetric ICP
 ## point-to-point
 slow convergence rate  
