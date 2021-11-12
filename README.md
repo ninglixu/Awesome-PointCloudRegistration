@@ -33,6 +33,7 @@
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
 - [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017  
+- Go-ICP. TPAMI 2016
 - [Scale 4PCS]Fully Automatic Registration of Image Sets on Approximate Geometry. IJCV 2013
 - Robust global registration." SGP 2005.  
 - Least-Squares Fitting of Two 3-D Point Sets. TPAMI 1987  
