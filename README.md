@@ -65,25 +65,25 @@
 - 
 - 
 ### Lecture
--[[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
--[[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
--[[EM and GMM](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)]  
--[[EM and GMM](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)]  
--[[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
--[[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
+- [[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
+- [[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
+- [[EM and GMM](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)]  
+- [[EM and GMM](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)]  
+- [[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
+- [[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
 - [[Wiki Point set registration]https://en.wikipedia.org/wiki/Point_set_registration]
 ## - 2D-3D Registration
--Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
+- Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
 ## - 2D-2D Registration
-Co-Attention for Conditioned Image Matching
--Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
-Choy, Christopher B., JunYoung Gwak, Silvio Savarese, and Manmohan Chandraker. "Universal correspondence network." arXiv preprint arXiv:1606.03558 (2016).
+- Co-Attention for Conditioned Image Matching
+- Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
+- Universal correspondence network. arXiv 2016.
 
 ## Dataset
--[[3DCSR, 2021, cross-source: Kinect_Lidar and Kinect_SFM ](http://multimediauts.org/3D_data_for_registration/)]  
--[[nuScenes, 2020, LiDAR like kitti](https://arxiv.org/abs/1903.11027#:~:text=Robust%20detection%20and%20tracking%20of,deployment%20of%20autonomous%20vehicle%20technology.&text=It%20has%207x%20as%20many,3D%20detection%20and%20tracking%20metrics.)]  
--[[WHU-TLS,2020, TLS](https://www.sciencedirect.com/science/article/pii/S0924271620300836)]  
--[[RESSO,2019, TLS](https://3d.bk.tudelft.nl/liangliang/publications/2019/plade/resso.html)]  
--[[ETH PRS TLS](https://prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)]  
--[[ETH ASL](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)]  
+- [[3DCSR, 2021, cross-source: Kinect_Lidar and Kinect_SFM ](http://multimediauts.org/3D_data_for_registration/)]  
+- [[nuScenes, 2020, LiDAR like kitti](https://arxiv.org/abs/1903.11027#:~:text=Robust%20detection%20and%20tracking%20of,deployment%20of%20autonomous%20vehicle%20technology.&text=It%20has%207x%20as%20many,3D%20detection%20and%20tracking%20metrics.)]  
+- [[WHU-TLS,2020, TLS](https://www.sciencedirect.com/science/article/pii/S0924271620300836)]  
+- [[RESSO,2019, TLS](https://3d.bk.tudelft.nl/liangliang/publications/2019/plade/resso.html)]  
+- [[ETH PRS TLS](https://prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)]  
+- [[ETH ASL](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)]  
