@@ -71,7 +71,7 @@
 - [[EM and GMM](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)]  
 - [[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
 - [[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
-- [[Wiki Point set registration]https://en.wikipedia.org/wiki/Point_set_registration]
+- [[Wiki Point set registration](https://en.wikipedia.org/wiki/Point_set_registration)]
 ## - 2D-3D Registration
 - Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
