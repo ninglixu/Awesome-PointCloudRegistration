@@ -26,6 +26,7 @@
 - A scale stretch method based on ICP for 3D data registration. 2009  
 - [KC] A correlation-based approach to robust point set registration." ECCV 2004.
 - The normal distributions transform: A new approach to laser scan matching. IROS 2003  
+- Multi-scale EM-ICP: A Fast and Robust Approach for Surface Registration. ECCV 2002.
 - Efficient variants of the ICP algorithm. IC3DIM 2001  
 - Object modelling by registration of multiple range images. IVC 1992  
 - Method for registration of 3-D shapes. ICOP 1992.  
@@ -70,6 +71,7 @@
 -[[EM and GMM](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)]  
 -[[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
 -[[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
+- [[Wiki Point set registration]https://en.wikipedia.org/wiki/Point_set_registration]
 ## - 2D-3D Registration
 -Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
