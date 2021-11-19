@@ -1,7 +1,7 @@
 # Awesome-PointCloudRegistration
 ## - 3D Non-Rigid Registration
 - Accurate Point Cloud Registration with Robust Optimal Transport. NIPS. 2021
-## - 3D-3D Registration
+## - 3D Rigid Registration
 ### Learning Based
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
 - RPM-Net: Robust Point Matching using Learned Features. CVPR2020  
