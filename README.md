@@ -1,4 +1,6 @@
 # Awesome-PointCloudRegistration
+## - 3D Non-Rigid Registration
+- Accurate Point Cloud Registration with Robust Optimal Transport. NIPS. 2021
 ## - 3D-3D Registration
 ### Learning Based
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
@@ -30,7 +32,6 @@
 - Efficient variants of the ICP algorithm. IC3DIM 2001  
 - Object modelling by registration of multiple range images. IVC 1992  
 - Method for registration of 3-D shapes. ICOP 1992.  
-
 
 ### Coarse Registration
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
