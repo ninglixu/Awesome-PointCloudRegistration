@@ -12,6 +12,7 @@
 - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Fine Registration 
+- Provably Approximated Point Cloud Registration. ICCV'2021
 - Scale-Adaptive ICP. PR. 2021.  
 - LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021  
 - Fast and Robust Iterative Closest Point. TPAMI 2021  
