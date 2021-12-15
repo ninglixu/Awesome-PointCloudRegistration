@@ -36,6 +36,7 @@
 - Method for registration of 3-D shapes. ICOP 1992.  
 
 ### Coarse Registration
+- Robust global registration of point clouds by closed-form solution in the frequency domain. ISPRS Journal. 2021
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
 - [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017  
