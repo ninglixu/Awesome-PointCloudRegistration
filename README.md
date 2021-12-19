@@ -61,6 +61,7 @@
 ### Survey  
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
 - [Descriptor application scenario] A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. 2016 IJCV.  
+- [Descriptor for indoor,outdoor] Evaluation of 3D feature descriptors for multi-modal data registration. 2013 IC3DV
 - [Detector] Performance Evaluation of 3D Keypoint Detectors. 2012 IJCV  
 - [Robust Estimation] A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019  
 - [RANSAC-type] A Comparative Analysis of RANSAC Techniques Leading to Adaptive Real-Time Random Sample Consensus. ECCV 2008.  
