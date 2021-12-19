@@ -11,6 +11,10 @@
 - UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR2021  
 - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
+### Detector/Descriptor
+- Scale-invariant features for 3-D mesh models." TIP 2012
+- 
+
 ### Fine Registration 
 - Registration of 3D Point Sets Using Correntropy Similarity Matrix. 2021
 - Provably Approximated Point Cloud Registration. ICCV'2021
