@@ -13,7 +13,7 @@
 
 ### Detector/Descriptor
 - Scale-invariant features for 3-D mesh models." TIP 2012
-- 
+- On the Repeatability and Quality of Keypoints for Local Feature-based 3D Object Retrieval from Cluttered Scenes. IJCV 2009.
 
 ### Fine Registration 
 - Registration of 3D Point Sets Using Correntropy Similarity Matrix. 2021
