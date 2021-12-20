@@ -62,6 +62,7 @@
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
 - [Descriptor application scenario] A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. 2016 IJCV.  
 - [Descriptor for indoor,outdoor] Evaluation of 3D feature descriptors for multi-modal data registration. 2013 IC3DV
+- [Descriptor with color]Influence of Colour and Feature Geometry on Multi-modal 3D Point Clouds Data Registration. 2014 IC3DV
 - [Descriptor for large-scale scene]An Evaluation of Local Shape Descriptors in Probabilistic Volumetric Scenes. BMVC 2012
 - [Detector] Performance Evaluation of 3D Keypoint Detectors. 2012 IJCV  
 - [Robust Estimation] A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019  
