@@ -12,6 +12,7 @@
 - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Detector/Descriptor
+- (MeshDOG)Keypoints and Local Descriptors of Scalar Functions on 2D Manifolds. IJCV 2012
 - Scale-invariant features for 3-D mesh models." TIP 2012
 - On the Repeatability and Quality of Keypoints for Local Feature-based 3D Object Retrieval from Cluttered Scenes. IJCV 2009.
 
