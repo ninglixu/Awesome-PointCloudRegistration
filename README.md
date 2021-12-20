@@ -72,7 +72,7 @@
 - [Rigid Non-rigid] Registration of 3D point clouds and meshes: A survey from rigid to nonrigid. 2012 TVCG
 - [LiDAR] Registration of Laser Scanning Point Clouds: A Review. 2018 Sensors. 
 - [Correspondence]Recent advances in shape correspondence. 2019 Visual Computer  
-- [Corase Registration]A review of recent range image registration methodswith accuracy evaluation. IVC 2006.
+- [Corase and Fine Registration]A review of recent range image registration methodswith accuracy evaluation. IVC 2006.
 - Recent developments and trends in point set registration methods。 2017
 - 
 - 
