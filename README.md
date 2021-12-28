@@ -35,6 +35,7 @@
 - A scale stretch method based on ICP for 3D data registration. 2009  
 - [KC] A correlation-based approach to robust point set registration." ECCV 2004.
 - The normal distributions transform: A new approach to laser scan matching. IROS 2003  
+- ICP registration using invariant features. TPAMI 2002.
 - Multi-scale EM-ICP: A Fast and Robust Approach for Surface Registration. ECCV 2002.
 - Efficient variants of the ICP algorithm. IC3DIM 2001  
 - Object modelling by registration of multiple range images. IVC 1992  
