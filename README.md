@@ -24,6 +24,7 @@
 - Fast and Robust Iterative Closest Point. TPAMI 2021  
 - Analysis of robust functions for registration algorithms.ICRA 2019.   
 - FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
+- Analysis of Robust Functions for Registration Algorithms. ICRA 2019.
 - Quality-based registration refinement of airborne LiDAR and photogrammetric point clouds.ISPRS 2019  
 - A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
 - Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
@@ -57,7 +58,6 @@
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA 2020.  
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints. 2019
-- Analysis of Robust Functions for Registration Algorithms. ICRA 2019.
 - GORE: Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. TPAMI'2018  
 - FGR: Fast Global Registration. ECCV'2016  
 
