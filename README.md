@@ -59,7 +59,8 @@
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints. 2019
 - GORE: Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. TPAMI'2018  
-- FGR: Fast Global Registration. ECCV'2016  
+- FGR: Fast Global Registration. ECCV'2016
+- On the Unification of Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision. IJCV 1996
 
 ### Survey  
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
