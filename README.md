@@ -88,7 +88,7 @@
 - [[SIFT](https://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)]  
 - [[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
 - [[Wiki Point set registration](https://en.wikipedia.org/wiki/Point_set_registration)]
-- [[SVD](https://igl.ethz.ch/projects/ARAP/svd_rot.pdf)]
+- [[Point-to-Point, SVD](https://igl.ethz.ch/projects/ARAP/svd_rot.pdf)]
 - [[Point-to-Plane, lineear approximation](https://www.comp.nus.edu.sg/~lowkl/publications/lowk_point-to-plane_icp_techrep.pdf)]
 - [[Point-to-Plane, Rodrigues approximation](https://dl.acm.org/doi/abs/10.1145/3306346.3323037)]
 ## - 2D-3D Registration
