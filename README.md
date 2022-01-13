@@ -89,7 +89,7 @@
 - [[ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_slides.pdf)]
 - [[Wiki Point set registration](https://en.wikipedia.org/wiki/Point_set_registration)]
 - [[SVD](https://igl.ethz.ch/projects/ARAP/svd_rot.pdf)]
-- [[Point-to-Plane](https://www.comp.nus.edu.sg/~lowkl/publications/lowk_point-to-plane_icp_techrep.pdf)]
+- [[Point-to-Plane, lineear approximation](https://www.comp.nus.edu.sg/~lowkl/publications/lowk_point-to-plane_icp_techrep.pdf)]
 ## - 2D-3D Registration
 - Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
