@@ -1,6 +1,7 @@
 # Awesome-PointCloudRegistration
 ## - 3D Non-Rigid Registration
 - Accurate Point Cloud Registration with Robust Optimal Transport. NIPS. 2021
+
 ## - 3D Rigid Registration
 ### Learning Based
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
@@ -78,8 +79,7 @@
 - [Correspondence] A Survey on Shape Correspondence. CGF 2012
 - [Corase and Fine Registration]A review of recent range image registration methodswith accuracy evaluation. IVC 2006.
 - Recent developments and trends in point set registration methods。 2017
-- 
-- 
+
 ### Lecture
 - [[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
 - [[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
@@ -91,6 +91,7 @@
 - [[Point-to-Point, SVD](https://igl.ethz.ch/projects/ARAP/svd_rot.pdf)]
 - [[Point-to-Plane, lineear approximation](https://www.comp.nus.edu.sg/~lowkl/publications/lowk_point-to-plane_icp_techrep.pdf)]
 - [[Point-to-Plane, Rodrigues approximation](https://dl.acm.org/doi/abs/10.1145/3306346.3323037)]
+
 ## - 2D-3D Registration
 - Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
