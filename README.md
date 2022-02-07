@@ -82,6 +82,7 @@
 - Recent developments and trends in point set registration methods。 2017
 
 ### Lecture
+- [[Recover euler angle from matrix](http://eecs.qmul.ac.uk/~gslabaugh/publications/euler.pdf)]
 - [[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
 - [[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
 - [[EM and GMM](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html)]  
