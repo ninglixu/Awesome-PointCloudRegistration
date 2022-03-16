@@ -37,6 +37,7 @@
 - [GMMReg]Robust point set registration using gaussian mixture models. TPAMI 2011.
 - A scale stretch method based on ICP for 3D data registration. 2009  
 - [KC] A correlation-based approach to robust point set registration." ECCV 2004.
+- [Hiearchical ICP] A multi-resolution ICP with heuristic closest point search for fast and robust 3D registration of range images. 2003
 - The normal distributions transform: A new approach to laser scan matching. IROS 2003  
 - ICP registration using invariant features. TPAMI 2002.
 - Multi-scale EM-ICP: A Fast and Robust Approach for Surface Registration. ECCV 2002.
