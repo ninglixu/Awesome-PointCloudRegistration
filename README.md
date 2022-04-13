@@ -1,6 +1,8 @@
 # Awesome-PointCloudRegistration
 ## - 3D Non-Rigid Registration
+- Feature preserving non-rigid iterative weighted closest point and semi-curvature registration. TIP. 2022
 - Accurate Point Cloud Registration with Robust Optimal Transport. NIPS. 2021
+
 
 ## - 3D Rigid Registration
 ### Learning Based
@@ -66,6 +68,7 @@
 - On the Unification of Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision. IJCV 1996
 
 ### Survey  
+- [Nonrigid] A survey of non-rigid 3D registration. arxiv. 2022
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
 - [Descriptor application scenario] A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. 2016 IJCV.  
 - [Descriptor for indoor,outdoor] Evaluation of 3D feature descriptors for multi-modal data registration. 2013 IC3DV
