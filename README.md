@@ -49,6 +49,7 @@
 - Method for registration of 3-D shapes. ICOP 1992.  
 
 ### Coarse Registration
+- Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022
 - Robust global registration of point clouds by closed-form solution in the frequency domain. ISPRS Journal. 2021
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
@@ -60,6 +61,8 @@
 - Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 
 ## Robust Estimation  
+- A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022
+- SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. CVPR'2022
 - A Practical O (N2) Outlier Removal Method for Point Cloud Registration. TPAMI 2021.
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA 2020.  
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
