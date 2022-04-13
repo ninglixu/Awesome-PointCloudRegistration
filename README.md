@@ -20,6 +20,7 @@
 - On the Repeatability and Quality of Keypoints for Local Feature-based 3D Object Retrieval from Cluttered Scenes. IJCV 2009.
 
 ### Fine Registration 
+- DICP: Doppler Iterative Closest Point Algorithm. arxiv 2022
 - Registration of 3D Point Sets Using Correntropy Similarity Matrix. 2021
 - Provably Approximated Point Cloud Registration. ICCV'2021
 - Scale-Adaptive ICP. PR. 2021.  
