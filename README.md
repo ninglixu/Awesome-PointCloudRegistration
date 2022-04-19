@@ -2,6 +2,7 @@
 ## - 3D Non-Rigid Registration
 - Feature preserving non-rigid iterative weighted closest point and semi-curvature registration. TIP. 2022
 - Accurate Point Cloud Registration with Robust Optimal Transport. NIPS. 2021
+- Quasi-Newton Solver for Robust Non-Rigid Registration. CVPR 2020.
 
 
 ## - 3D Rigid Registration
