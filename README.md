@@ -104,6 +104,7 @@
 - [[Point-to-Point, SVD](https://igl.ethz.ch/projects/ARAP/svd_rot.pdf)]
 - [[Point-to-Plane, lineear approximation](https://www.comp.nus.edu.sg/~lowkl/publications/lowk_point-to-plane_icp_techrep.pdf)]
 - [[Point-to-Plane, Rodrigues approximation](https://dl.acm.org/doi/abs/10.1145/3306346.3323037)]
+- [[Mutual Information](https://courses.cs.washington.edu/courses/cse577/11au/notes/Z5-Mutual-Information.pdf)]
 
 ## - 2D-3D Registration
 - Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
