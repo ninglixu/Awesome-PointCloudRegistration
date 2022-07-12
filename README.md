@@ -113,6 +113,7 @@
 - Co-Attention for Conditioned Image Matching
 - Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
 - Universal correspondence network. arXiv 2016.
+- Mutual-Information-Based Registration of Medical Images: A Survey. 2003
 
 ## Dataset
 - [[3DCSR, 2021, cross-source: Kinect_Lidar and Kinect_SFM ](http://multimediauts.org/3D_data_for_registration/)]  
