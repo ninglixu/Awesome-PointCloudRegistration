@@ -110,6 +110,7 @@
 - Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
 
 ## - 2D-2D Registration
+- Multimodal Remote Sensing Image Registration Methods and Advancements: A Survey. RS 2021
 - Co-Attention for Conditioned Image Matching
 - Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
 - Universal correspondence network. arXiv 2016.
