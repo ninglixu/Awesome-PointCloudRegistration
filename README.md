@@ -37,6 +37,7 @@
 - Correntropy based scale ICP algorithm for robust point set registration. 2019  
 - AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 - Multi-Channel Generalized-ICP: A robust framework for multi-channel scan registration. 2017. RAS
+- GOGMA: Globally-Optimal Gaussian Mixture Alignment. 2016 CVPR.
 - Multi channel generalized-ICP. ICRA, 2014.
 - Sparse iterative closest point. CGF 2013  
 - Point set registration: Coherent point drift. TPAMI 2010  
