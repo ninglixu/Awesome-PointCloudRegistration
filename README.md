@@ -116,7 +116,8 @@
 - Automatic UAV image geo-registration by matching UAV images to georeferenced image data. Remote Sensing 2017  
 - Universal correspondence network. arXiv 2016.
 - Mutual-Information-Based Registration of Medical Images: A Survey. 2003
-
+- (Optimization)Comparative evaluation of multiresolution optimization strategies for multimodality image registration by maximization of mutual information. 1999
+- (classic) Alignment by Maximization of Mutual Information. 1997
 ## Dataset
 - [[3DCSR, 2021, cross-source: Kinect_Lidar and Kinect_SFM ](http://multimediauts.org/3D_data_for_registration/)]  
 - [[nuScenes, 2020, LiDAR like kitti](https://arxiv.org/abs/1903.11027#:~:text=Robust%20detection%20and%20tracking%20of,deployment%20of%20autonomous%20vehicle%20technology.&text=It%20has%207x%20as%20many,3D%20detection%20and%20tracking%20metrics.)]  
