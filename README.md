@@ -68,6 +68,7 @@
 - A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022
 - SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. CVPR'2022
 - A Practical O (N2) Outlier Removal Method for Point Cloud Registration. TPAMI 2021.
+- A review on robust M-estimators for regression analysis. 2021
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA 2020.  
 - TEASER: Fast and Certifiable Point Cloud Registration. T-RO'2020  
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints. 2019
