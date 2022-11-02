@@ -7,6 +7,7 @@
 
 ## - 3D Rigid Registration
 ### Learning Based
+- Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. PMLR 2022.
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
 - RPM-Net: Robust Point Matching using Learned Features. CVPR2020  
 - Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR2021  
