@@ -36,6 +36,7 @@
 - A symmetric objective function for ICP."ACM Transactions on Graphics. TOG 2019  
 - Effective scaling registration approach by imposing the emphasis on the scale factor. 2019  
 - Correntropy based scale ICP algorithm for robust point set registration. 2019  
+- https://opals.geo.tuwien.ac.at/html/stable/ModuleStripAdjust.html
 - AA-ICP: Iterative closest point with Anderson acceleration.ICRA, 2018.
 - Multi-Channel Generalized-ICP: A robust framework for multi-channel scan registration. 2017. RAS
 - GOGMA: Globally-Optimal Gaussian Mixture Alignment. 2016 CVPR.
