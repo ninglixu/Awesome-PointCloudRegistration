@@ -44,6 +44,7 @@
 - A GMM based uncertainty model for point clouds registration. 2016. RAS
 - Multi channel generalized-ICP. ICRA, 2014.
 - Sparse iterative closest point. CGF 2013  
+- Toward mutual information based automatic registration of 3D point clouds. 2012 ICIRS
 - Point set registration: Coherent point drift. TPAMI 2010  
 - [GMMReg]Robust point set registration using gaussian mixture models. TPAMI 2011.
 - A scale stretch method based on ICP for 3D data registration. 2009  
