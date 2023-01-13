@@ -114,7 +114,8 @@
 - [[Mutual Information](https://courses.cs.washington.edu/courses/cse577/11au/notes/Z5-Mutual-Information.pdf)]
 
 ## - 2D-3D Registration
-- Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020  
+- Phase-Congruency-Based Scene Abstraction Approach for 2D-3D Registration of Aerial Optical and LiDAR Images. AEORS 2020 
+- DRMIME: Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration. 2020
 
 ## - 2D-2D Registration
 - Multimodal Remote Sensing Image Registration Methods and Advancements: A Survey. RS 2021
