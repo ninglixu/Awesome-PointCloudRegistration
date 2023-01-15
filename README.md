@@ -100,6 +100,8 @@
 - Recent developments and trends in point set registration methods。 2017
 
 ### Lecture
+- [[SE2 SE3 Lie group](https://ethaneade.com/lie.pdf)]
+- [[SE3 Lie group](https://jinyongjeong.github.io/Download/SE3/jlblanco2010geometry3d_techrep.pdf)]
 - [[Recover euler angle from matrix](http://eecs.qmul.ac.uk/~gslabaugh/publications/euler.pdf)]
 - [[CMU ICP-variant lecture](https://cs.gmu.edu/~kosecka/cs685/cs685-icp.pdf)]   
 - [[Stanford Quaternion](http://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)]  
