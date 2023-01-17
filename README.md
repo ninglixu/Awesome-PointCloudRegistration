@@ -23,12 +23,14 @@
 
 ### Fine Registration 
 - DICP: Doppler Iterative Closest Point Algorithm. arxiv 2022
+- Stein ICP for Uncertainty Estimation in Point Cloud Matching. ICRA. 2022
 - Sparse point cloud registration and aggregation with mesh‐based generalized iterative closest point. 2021
 - Registration of 3D Point Sets Using Correntropy Similarity Matrix. 2021
 - Provably Approximated Point Cloud Registration. ICCV'2021
 - Scale-Adaptive ICP. PR. 2021.  
 - LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. ICCV'2021  
 - Fast and Robust Iterative Closest Point. TPAMI 2021  
+- Estimating Motion Uncertainty with Bayesian ICP. ICRA. 2020
 - Analysis of robust functions for registration algorithms.ICRA 2019.   
 - FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019  
 - Analysis of Robust Functions for Registration Algorithms. ICRA 2019.
