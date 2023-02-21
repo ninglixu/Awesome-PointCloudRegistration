@@ -138,6 +138,7 @@
 - [[ETH ASL](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)]  
 ## Citation
 We also did a critical review and performance evaluation of SOTA point cloud registration algorithms (including SpinNet,TEASER++, PointDSC,Generalized ICP,Symmetric ICP, Fast and Robust ICP and more). They are evalated on three challenging datasets (RESSO, Whu-TLS, OSUCampus) with hugh difference in overlap, scene context and resolution. Our analysis allows for exploring the strengths, applicility challenges and future trends of these methods. Please reach out to this document for more details!
+```bibtex
 @article{xu2023point,
   title={Point cloud registration for LiDAR and photogrammetric data: A critical synthesis and performance analysis on classic and deep learning algorithms},
   author={Xu, Ningli and Qin, Rongjun and Song, Shuang},
@@ -146,4 +147,5 @@ We also did a critical review and performance evaluation of SOTA point cloud reg
   year={2023},
   publisher={Elsevier}
 }
+'''
 
