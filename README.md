@@ -136,3 +136,14 @@
 - [[RESSO,2019, TLS](https://3d.bk.tudelft.nl/liangliang/publications/2019/plade/resso.html)]  
 - [[ETH PRS TLS](https://prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)]  
 - [[ETH ASL](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)]  
+## Citation
+We also did a critical review and performance evaluation of SOTA point cloud registration algorithms (including SpinNet,TEASER++, PointDSC,Generalized ICP,Symmetric ICP, Fast and Robust ICP and more). They are evalated on three challenging datasets (RESSO, Whu-TLS, OSUCampus) with hugh difference in overlap, scene context and resolution. Our analysis allows for exploring the strengths, applicility challenges and future trends of these methods. Please reach out to this document for more details!
+@article{xu2023point,
+  title={Point cloud registration for LiDAR and photogrammetric data: A critical synthesis and performance analysis on classic and deep learning algorithms},
+  author={Xu, Ningli and Qin, Rongjun and Song, Shuang},
+  journal={ISPRS Open Journal of Photogrammetry and Remote Sensing},
+  pages={100032},
+  year={2023},
+  publisher={Elsevier}
+}
+
