@@ -6,6 +6,10 @@
 
 
 ## - 3D Rigid Registration
+### Multi-view registration
+- Large-Scale LiDAR Consistent Mapping Using Hierarchical LiDAR Bundle Adjustment. ICRL 2023
+- On Bundle Adjustment for Multiview Point Cloud Registration. ICRL 2021
+- BALM: Bundle Adjustment for Lidar Mapping. ICRL 2021
 ### Learning Based
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. PMLR 2022.
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
