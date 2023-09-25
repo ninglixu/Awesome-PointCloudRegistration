@@ -7,6 +7,7 @@
 
 ## - 3D Rigid Registration
 ### Multi-view registration
+- Efficient Second-Order Plane Adjustment. CVPR 2023
 - Robust Multiview Point Cloud Registration With Reliable Pose Graph Initialization and History Reweighting. CVPR2023
 - Large-Scale LiDAR Consistent Mapping Using Hierarchical LiDAR Bundle Adjustment. ICRL 2023
 - On Bundle Adjustment for Multiview Point Cloud Registration. ICRL 2021
