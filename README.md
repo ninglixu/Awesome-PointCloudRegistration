@@ -14,16 +14,24 @@
 - BALM: Bundle Adjustment for Lidar Mapping. ICRL 2021
 - Learning multiview 3D point cloud registration. CVPR 2020.
 ### Learning Based
+- Deep Semantic Graph Matching for Large-Scale Outdoor Point Cloud Registration TGRS 2024
+- PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer. TGRS 2024
+- Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration. CVPR 2023
+- GeoTransformer: Fast and Robust Point Cloud Registration With Geometric Transformer. TPAMI 2023
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. PMLR 2022.
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
 - RPM-Net: Robust Point Matching using Learned Features. CVPR2020  
 - Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR2021  
-- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR2021  
+
 - PointDSC: Robust Point Cloud Registration Using Deep Spatial Consistency. CVPR2021  
 - UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR2021  
 - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds. CVPR2020  
 
 ### Detector/Descriptor
+- Riga: Rotation-invariant and globally-aware descriptors for point cloud registration. TPAMI 2024
+- RoReg: Pairwise Point Cloud Registration With Oriented Descriptors and Local Rotations. TPAMI 2023
+- BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. CVPR 2023
+- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR2021  
 - (MeshDOG)Keypoints and Local Descriptors of Scalar Functions on 2D Manifolds. IJCV 2012
 - Scale-invariant features for 3-D mesh models." TIP 2012
 - On the Repeatability and Quality of Keypoints for Local Feature-based 3D Object Retrieval from Cluttered Scenes. IJCV 2009.
@@ -67,6 +75,7 @@
 - Method for registration of 3-D shapes. ICOP 1992.  
 
 ### Coarse Registration
+- Quatro++: Robust global registration exploiting ground segmentation for loop closing in LiDAR SLAM. IJRR 2024
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022
 - Robust global registration of point clouds by closed-form solution in the frequency domain. ISPRS Journal. 2021
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
@@ -79,6 +88,10 @@
 - Closed-form solution of absolute orientation using unit quaternions. JOSA 1987  
 
 ## Robust Estimation  
+- PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers. ARXIV 2024
+- 3D registration with maximal cliques. CVPR 2023
+- QGORE: Quadratic-Time Guaranteed Outlier Removal for Point Cloud Registration. TPAMI 2023
+- Accurate Registration of Cross-Modality Geometry via Consistent Clustering. TVCG 2023
 - A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022
 - SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. CVPR'2022
 - A Practical O (N2) Outlier Removal Method for Point Cloud Registration. TPAMI 2021.
