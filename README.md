@@ -14,6 +14,7 @@
 - BALM: Bundle Adjustment for Lidar Mapping. ICRL 2021
 - Learning multiview 3D point cloud registration. CVPR 2020.
 ### Learning Based
+- DMS: Low-overlap Registration of 3D Point Clouds with Double-layer Multi-scale Star-graph. TVCG 2024
 - Deep Semantic Graph Matching for Large-Scale Outdoor Point Cloud Registration TGRS 2024
 - PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer. TGRS 2024
 - Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration. CVPR 2023
