@@ -77,6 +77,7 @@
 - Method for registration of 3-D shapes. ICOP 1992.  
 
 ### Coarse Registration
+- Incremental registration towards large-scale heterogeneous point clouds by hierarchical graph matching. ISPRS 2024.
 - Quatro++: Robust global registration exploiting ground segmentation for loop closing in LiDAR SLAM. IJRR 2024
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022
 - Robust global registration of point clouds by closed-form solution in the frequency domain. ISPRS Journal. 2021
