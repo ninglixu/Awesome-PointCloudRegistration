@@ -105,6 +105,7 @@
 - On the Unification of Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision. IJCV 1996
 
 ### Survey  
+- [Deeplearning] A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. ARXIV 2024
 - [Nonrigid] A survey of non-rigid 3D registration. arxiv. 2022
 - [Descriptor design] Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. 2019 TIP  
 - [Descriptor application scenario] A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. 2016 IJCV.  
