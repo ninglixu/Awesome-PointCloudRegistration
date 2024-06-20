@@ -31,7 +31,7 @@
 - Riga: Rotation-invariant and globally-aware descriptors for point cloud registration. TPAMI 2024
 - RoReg: Pairwise Point Cloud Registration With Oriented Descriptors and Local Rotations. TPAMI 2023
 - BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. CVPR 2023
-- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR2021  
+- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR2021
 - (MeshDOG)Keypoints and Local Descriptors of Scalar Functions on 2D Manifolds. IJCV 2012
 - Scale-invariant features for 3-D mesh models." TIP 2012
 - On the Repeatability and Quality of Keypoints for Local Feature-based 3D Object Retrieval from Cluttered Scenes. IJCV 2009.
@@ -78,10 +78,16 @@
 - Incremental registration towards large-scale heterogeneous point clouds by hierarchical graph matching. ISPRS 2024.
 - Quatro++: Robust global registration exploiting ground segmentation for loop closing in LiDAR SLAM. IJRR 2024
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022
+- [Line] Using 2-Lines Congruent Sets for Coarse Registration of Terrestrial Point Clouds in Urban Scenes. TGRS 2022.
 - Robust global registration of point clouds by closed-form solution in the frequency domain. ISPRS Journal. 2021
+- Object-based incremental registration of terrestrial point clouds in an urban environment. ISPRSJ 2020.
+- [Line] Fast and Automatic Registration of Terrestrial Point Clouds Using 2D Line Features. RS 2020.
 - [4plane PCS] 4-Plane congruent sets for automatic registration of as-is 3D point clouds with 3D BIM models. 2018  
 - [V4PCS] V4PCS: Volumetric 4PCS algorithm for global registration. 2017
-- [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017  
+- [Plane2Plane] Efficient and Accurate Registration of Point Clouds With Plane to Plane Correspondences. ICCV 2017
+- [Line] Line-Based Registration of Panoramic Images and LiDAR Point Clouds for Mobile Mapping. Sensors 2017.
+- [Outline] An automated method to register airborne and terrestrial laser scanning point clouds. ISPRSJ 2015.
+
 - Go-ICP. TPAMI 2016
 - [Scale 4PCS]Fully Automatic Registration of Image Sets on Approximate Geometry. IJCV 2013
 - Robust global registration." SGP 2005.  
