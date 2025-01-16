@@ -181,3 +181,7 @@ We also did a critical review and performance evaluation of SOTA point cloud reg
 }
 '''
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ninglixu/Awesome-PointCloudRegistration&type=Date)](https://star-history.com/#ninglixu/Awesome-PointCloudRegistration&Date)
+
