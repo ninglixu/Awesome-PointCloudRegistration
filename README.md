@@ -168,6 +168,9 @@
 ## Contact
 Ningli Xu, [website](https://ninglixu.github.io/) 
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ninglixu/Awesome-PointCloudRegistration&type=Date)](https://star-history.com/#ninglixu/Awesome-PointCloudRegistration&Date)
+
 ## Citation
 We also did a critical review and performance evaluation of SOTA point cloud registration algorithms (including [SpinNet](https://github.com/QingyongHu/SpinNet),  [TEASER++](https://github.com/MIT-SPARK/TEASER-plusplus), [PointDSC](https://github.com/XuyangBai/PointDSC), [Generalized ICP](https://www.robots.ox.ac.uk/~avsegal/resources/papers/Generalized_ICP.pdf), [Symmetric ICP](https://dl.acm.org/doi/abs/10.1145/3306346.3323037), [Fast and Robust ICP](https://github.com/yaoyx689/Fast-Robust-ICP) and more). They are evalated on three challenging datasets ([RESSO](https://ieeexplore.ieee.org/abstract/document/8936527), [Whu-TLS](https://www.sciencedirect.com/science/article/pii/S0924271620300836), OSUCampus) with hugh difference in overlap, scene context and resolution. Our analysis allows for exploring the strengths, applicility challenges and future trends of these methods. Please reach out to this document for more details!
 ```bibtex
@@ -181,7 +184,5 @@ We also did a critical review and performance evaluation of SOTA point cloud reg
 }
 '''
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ninglixu/Awesome-PointCloudRegistration&type=Date)](https://star-history.com/#ninglixu/Awesome-PointCloudRegistration&Date)
 
