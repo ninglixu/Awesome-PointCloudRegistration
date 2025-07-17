@@ -17,6 +17,7 @@ Three-dimensional (3D) point cloud registration is a fundamental step for many 3
 
 ## - 3D Rigid Registration
 ### Learning Based
+- Pointreggpt: Boosting 3d point cloud registration using generative point-cloud pairs for training." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024.ECCV
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. PMLR 2022.
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR2021  
 - RPM-Net: Robust Point Matching using Learned Features. CVPR2020  
